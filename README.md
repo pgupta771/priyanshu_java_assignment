@@ -1,6 +1,6 @@
 # Java Workshop
 
-This repository contains **theory, examples, and practice problems** covering modern Java features from **Java 8 to Java 17**.  
+This repository contains **theory, examples, and practice problems** covering certain Java features from **Java 8 to Java 17**.  
 ---
 
 ## 🎯 Goals
